@@ -1,2 +1,2 @@
 # hello-world
-says hello world.
+Just trying something new.
